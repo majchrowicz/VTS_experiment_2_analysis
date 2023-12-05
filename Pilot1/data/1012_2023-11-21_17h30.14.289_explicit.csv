@@ -1,0 +1,3 @@
+participant;condition;cb;ratings;agef1_rating;agef2_rating;agef3_rating;agef4_rating;agef1_rt;agef2_rt;agef3_rt;agef4_rt;nasa1_rating;nasa2_rating;nasa3_rating;nasa4_rating;nasa1_rt;nasa2_rt;nasa3_rt;nasa4_rt
+1012;0;1;bht;1;1;1;1;9.002;9.992;12.084;13.281;1;2;4;1;2.729;4.042;7.669;10.633
+1012;0;1;vts;2;7;4;1;2.854;5.453;11.853;16.585;4;6;5;1;1.625;3.24;4.974;7.304
